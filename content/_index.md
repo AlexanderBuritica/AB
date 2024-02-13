@@ -64,20 +64,19 @@ sections:
       items:
         - title: Postdoctoral Fellow
           company: Alliance of Bioversity International and CIAT
-          company_url: ''
+          company_url: 
           company_logo: org-gc
           location: Palmira, Colombia
           date_start: '2023-12-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Leading Coordination and implementation of research activities in different projects.
               * Modelling and Econometric Analysis
               * Writing academic papers
         - title: Development Economics Specialist
           company: Verite
-          company_url: ''
+          company_url: 
           company_logo: org-x
           location: Amherst, United States
           date_start: '2021-01-01'
@@ -106,6 +105,15 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Introduction to Big Data
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: '2020-04-30'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Combining and Analyzing Complex Data
           url: ''
     design:
       columns: '2'
@@ -234,10 +242,6 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/AlexBuri'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:alexander.buritica.casanova'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
