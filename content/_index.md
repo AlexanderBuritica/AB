@@ -107,13 +107,31 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2020-05-11'
+          date_start: ''
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Introduction to Big Data
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: '2020-04-30'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Combining and Analyzing Complex Data
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: '2020-08-21'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Los Objetivos de Desarrollo Sostenible para las empresas
           url: ''
     design:
       columns: '2'
