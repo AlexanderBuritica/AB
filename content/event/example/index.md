@@ -1,28 +1,24 @@
 ---
-title: Example Talk
+title: Conferences
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: EXPOSENA Conference
+event_url: https://alliancebioversityciat.org/stories/connecting-science-and-innovation-insights-exposena-2023
 
-location: Hugo Blox Builder HQ
+location: Palmira, Valle del Cauca
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+  city: Palmira
+  region: LA
+  country: Colombia
+summary: This international event focuses on academic, scientific, and cultural exchanges to advance socio-economic and technological development regionally and internationally. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+#date: '2030-06-01T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-12-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,17 +27,17 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://alliancebioversityciat.org/sites/default/files/styles/1920_scale/public/images/buritica-banner3.jpeg?itok=9NwcATPh)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/AlexanderBuri
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: https://cgspace.cgiar.org/items/a9c1a7b0-ddd1-41b8-a102-6b7dcb072881
 url_video: ''
 
 # Markdown Slides (optional).
@@ -71,3 +67,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+
