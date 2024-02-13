@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Postdoctoral Fellow
+          company: Alliance of Bioversity International and CIAT
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Palmira, Colombia
+          date_start: '2023-12-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Leading Coordination and implementation of research activities in different projects.
+              * Modelling and Econometric Analysis
+              * Writing academic papers
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
