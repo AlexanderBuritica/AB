@@ -108,30 +108,30 @@ sections:
       items:
         - certificate_url: https://coursera.org/share/1224e3e99531ddde6b932c671a99516e
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2020-05-11'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Introduction to Big Data
+          title: 'Introduction to Big Data'
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/886f6004ad3998689009c5dab20d803c
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2020-04-30'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          icon: coursera
+          organization: coursera
+          organization_url:  https://www.coursera.org
+          title: 'Combining and Analyzing Complex Data'
+          url:  ''
+        - certificate_url: [https://www.datacamp.com](https://coursera.org/share/0dc5453b1892b612abc3558a14c7b765)
+          date_end: ''
+          date_start: '2020-05-27'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: coursera
+          organization: coursera
+          organization_url: [https://www.datacamp.com](https://www.coursera.org)
+          title: 'Introduction to Probability and Data with R'
           url: ''
     design:
       columns: '2'
