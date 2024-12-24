@@ -10,7 +10,7 @@ sections:
     content:
       title: Alexander Buritica
       image:
-        filename: icon.PNG
+        filename: converted_logo.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
