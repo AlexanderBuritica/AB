@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexander
+title: Alexander Buritica
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -25,13 +25,13 @@ organizations:
     url: https://alliancebioversityciat.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on unraveling the dynamics within agricultural value chains, productivity, and technology adoption at both firm and farm producer levels.
+bio: Applied microeconomist with expertise in agricultural economics, impact evaluation, and development economics, specializing in causal inference and policy analysis.
 
 # Interests to show in About widget
 interests:
-  - Microeconomics
-  - Impact Assessment
-  - Agricultural Economics
+  - Agricultural Value Chains
+  - Impact Evaluation
+  - Productivity and Technology Adoption
   - Development Economics
 
 # Education to show in About widget
